@@ -1,0 +1,15 @@
+/workspaces/CursoCS/Curso/bin/Debug/net8.0/Curso
+/workspaces/CursoCS/Curso/bin/Debug/net8.0/Curso.deps.json
+/workspaces/CursoCS/Curso/bin/Debug/net8.0/Curso.runtimeconfig.json
+/workspaces/CursoCS/Curso/bin/Debug/net8.0/Curso.dll
+/workspaces/CursoCS/Curso/bin/Debug/net8.0/Curso.pdb
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/Curso.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/Curso.AssemblyInfoInputs.cache
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/Curso.AssemblyInfo.cs
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/Curso.csproj.CoreCompileInputs.cache
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/Curso.sourcelink.json
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/Curso.dll
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/refint/Curso.dll
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/Curso.pdb
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/Curso.genruntimeconfig.cache
+/workspaces/CursoCS/Curso/obj/Debug/net8.0/ref/Curso.dll
